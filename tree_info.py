@@ -1,7 +1,7 @@
 import cohere
 
 # Set up the Cohere client
-client = cohere.Client(api_key="lEhi1tgPfVEA4ha4FFDRCeKhyEVnrgHURtPhnO8R")
+client = cohere.Client(api_key="Your_API_key") #inside the double quotes, replace the text with your Cohere API key. You can view it in your Cohere Dashboard > API Key
 model = "command-xlarge-nightly"
 
 
